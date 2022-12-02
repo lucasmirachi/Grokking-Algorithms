@@ -3,7 +3,7 @@
 using namespace std;
 
 int list[] = {1, 2, 3, 4, 5, 6, 7, 8, 9}; //Change these values for testing
-int item = 6; //Can also change for testing
+int item = 6; //Can also change this value for testing
 
 int guess, mid;
 int low = 0;
