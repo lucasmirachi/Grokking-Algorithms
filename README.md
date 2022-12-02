@@ -8,4 +8,29 @@
 ---
 # Index
 
-- Chapter 1 - Introduction to Algorithms
+* Chapter 1 - Introduction to Algorithms
+	- Binary Search
+
+* Chapter 2 - Selection Sort
+	- Test
+
+* Chapter 3 - Recursion
+
+* Chapter 4 - Quicksort
+
+* Chapter 5 - Hash Tables
+
+* Chapter 6 - Breadth-first Search
+
+* Chapter 7 - Dijkstra's algorithm
+
+* Chapter 8 - Greedy algorithms
+
+* Chapter 9 - Dynamic programming
+
+* Chapter 10 - K-nearest neighbors
+
+* Chapter 11 - Where to go next
+
+
+
