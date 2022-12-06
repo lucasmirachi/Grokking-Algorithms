@@ -11,7 +11,7 @@ int searchLower(int arr[]){
     int lower_index = 0;
 
     for (int i = 0; i <= length; i++){
-        if (arr[i] < lower){
+        if (arr[i] < arr[lower_index]){
             lower = arr[i];
             lower_index = i;
         }
@@ -27,13 +27,16 @@ vector<int> selectionSort(int arr[]){
     return newArr;
 }
 
-void print(vector <int> const &a) {
-   for(int i=0; i < a.size(); i++)
-   cout << a.at(i) << ' ';
+// function to print an array
+void printArray(vector<int> arr, int size) {
+  for (int i = 0; i < size; i++) {
+    cout << arr[i] << " ";
+  }
+  cout << endl;
 }
 
 int main() {
    newArr = selectionSort(arr); 
-   print(newArr);
+   printArray(newArr, length);
    return 0;
 }
