@@ -19,6 +19,10 @@
 
 * Chapter 4 - Quicksort
 
+<p align="center">
+<img src="https://favtutor.com/resources/images/uploads/mceu_46432632011643441346270.png" />
+</p>
+
 * Chapter 5 - Hash Tables
 
 * Chapter 6 - Breadth-first Search
