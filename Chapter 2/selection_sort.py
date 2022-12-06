@@ -1,6 +1,6 @@
 def searchLower(arr):
-    lower = arr[0] #stores the lower value
-    lower_index = 0 #stores the lower value's index inside the array
+    lower = arr[0] #store the lower value
+    lower_index = 0 #store the lower value's index inside the array
 
     for i in range(1, len(arr)):
         if arr[i] < lower:
