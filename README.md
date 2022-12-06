@@ -9,10 +9,11 @@
 # Index
 
 * Chapter 1 - Introduction to Algorithms
-	- Binary Search
+	- Binary Search (Python and C++)
 
 * Chapter 2 - Selection Sort
-	- Test
+	- Arrays vs Linked Lists
+	- Selection Sort Algorithm (Python and C++)
 
 * Chapter 3 - Recursion
 
