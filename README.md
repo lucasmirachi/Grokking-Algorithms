@@ -42,7 +42,11 @@
 </p>
 
 
-* Chapter 6 - Breadth-first Search
+* Chapter 6 - Breadth-first Search - BFS
+
+<p align="center">
+<img src="https://indiascreen.ir/red?url=https%3A%2F%2Fstatic.javatpoint.com%2Ftutorial%2Fai%2Fimages%2Fbreadth-first-search.png" alt="Hash Table" style="height: 300px; width:450px;"/>
+</p>
 
 * Chapter 7 - Dijkstra's algorithm
 
