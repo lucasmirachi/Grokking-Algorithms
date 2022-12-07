@@ -15,7 +15,7 @@
 <img src="https://www.computerhope.com/jargon/b/binary-search.jpg" alt="Binary Search" style="height: 200px; width:250px;"/>
 </p>
 
-<center>[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fb%2Fbinary-search.htm&psig=AOvVaw1zFTK0MlSB0fbDAuLT1Ztr&ust=1670503767029000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi3qs_F5_sCFQAAAAAdAAAAABAE) </center>
+<center> [Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fb%2Fbinary-search.htm&psig=AOvVaw1zFTK0MlSB0fbDAuLT1Ztr&ust=1670503767029000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi3qs_F5_sCFQAAAAAdAAAAABAE) </center>
 
 * Chapter 2 - Selection Sort
 	- Arrays vs Linked Lists
@@ -25,7 +25,7 @@
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Selection-Sort-Soni/what-is-selection-sort.png" alt="Selection Sort" style="height: 300px; width:450px;"/>
 </p>
 
-<center>[Source](https://www.simplilearn.com/ice9/free_resources_article_thumb/Selection-Sort-Soni/what-is-selection-sort.png)</center>
+<center> [Source](https://www.simplilearn.com/ice9/free_resources_article_thumb/Selection-Sort-Soni/what-is-selection-sort.png)</center>
 
 * Chapter 3 - Recursion
 
