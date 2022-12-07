@@ -37,6 +37,11 @@
 
 * Chapter 5 - Hash Tables
 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/1200px-Hash_table_3_1_1_0_1_0_0_SP.svg.png" alt="Hash Table" style="height: 300px; width:450px;"/>
+</p>
+
+
 * Chapter 6 - Breadth-first Search
 
 * Chapter 7 - Dijkstra's algorithm
