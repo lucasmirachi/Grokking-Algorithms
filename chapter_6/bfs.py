@@ -6,7 +6,7 @@ def person_is_seller(name):
 def search(name):
     search_line = deque()
     search_line += grafo[name]
-    verified = [] #This vector is the way that we mantain registered the names that were already verified 
+    verified = [] #This vector is the way that we mantain registered the names that were already verified to avoid redundancies
     while search_line:
         person = search_line.popleft() #takes in the first person on the line
         if not person in verified: #only verifiy the names of the persons who were not verified before
