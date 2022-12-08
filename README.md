@@ -45,6 +45,9 @@
 
 * Chapter 9 - Dynamic programming
 
+	- Dynamic programming is useful when you’re trying to optimize something given a constraint. 
+	- You can use dynamic programming when the problem can be separated in discrete sub-problems which don't depend on each other.
+
 * Chapter 10 - K-nearest neighbors
 
 * Chapter 11 - Where to go next
