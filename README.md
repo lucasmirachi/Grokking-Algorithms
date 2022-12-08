@@ -39,7 +39,19 @@
 
 * Chapter 6 - Breadth-first Search
 
+<p align="center">
+<img src="https://www.guru99.com/images/1/020820_0543_BreadthFirs1.png" />
+</p>
+
+[Souce](https://www.guru99.com/breadth-first-search-bfs-graph-example.html)
+
 * Chapter 7 - Dijkstra's algorithm
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif" alt="Selection Sort" style="height: 200px; width:300px;"/>
+</p>
+
+[Source](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 * Chapter 8 - Greedy algorithms
 
@@ -49,6 +61,12 @@
 	- You can use dynamic programming when the problem can be separated in discrete sub-problems which don't depend on each other.
 
 * Chapter 10 - K-nearest neighbors
+
+<p align="center">
+<img src="https://drek4537l1klr.cloudfront.net/bhargava/Figures/189fig02_alt.jpg" />
+</p>
+
+[Source](https://livebook.manning.com/book/grokking-algorithms/chapter-10/16)
 
 * Chapter 11 - Where to go next
 
