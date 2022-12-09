@@ -1,5 +1,5 @@
 # Grokking-Algorithms
- An repository where I save all the examples and exercises I did from the book *"Grokking Algorithms"* by Aditya Y. Bhargava.
+ An study repository where I save all the examples and exercises I while reading the the book *"Grokking Algorithms"* by Aditya Y. Bhargava.
 
 <p align="center">
 <img src="https://m.media-amazon.com/images/I/91p7WLtvCAL.jpg" alt="Grokking Algorithms" style="height: 300px; width:250px;"/>
@@ -18,7 +18,7 @@
 <center>[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fb%2Fbinary-search.htm&psig=AOvVaw1zFTK0MlSB0fbDAuLT1Ztr&ust=1670503767029000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi3qs_F5_sCFQAAAAAdAAAAABAE) </center>
 
 * Chapter 2 - Selection Sort
-	- Arrays vs Linked Lists
+	- [Arrays vs Linked Lists](https://github.com/lucasmirachi/Grokking-Algorithms/blob/main/chapter_2/arrays-vs-linkedlists.md)
 	- Selection Sort Algorithm (Python and C++)
 
 <p align="center">
@@ -34,6 +34,8 @@
 <p align="center">
 <img src="https://favtutor.com/resources/images/uploads/mceu_46432632011643441346270.png" />
 </p>
+[Souce](https://favtutor.com)
+
 
 * Chapter 5 - Hash Tables
 
@@ -70,5 +72,15 @@
 
 * Chapter 11 - Where to go next
 
+	- binary search tree data structure
+	- Inverted indexes
+	- [The Fourier transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) **IMPORTANT TO READ!**
+	- Parallel algorithms
+	- MapReduce
+	- Bloom filters and HyperLogLog
+	- The SHA algorithms
+	- Locality-sensitive hashing
+	- Diffie-Hellman key exchange
+	- Linear programming
 
 
